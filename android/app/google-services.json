@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79722847513",
+    "project_id": "flutter-news-rahmat",
+    "storage_bucket": "flutter-news-rahmat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79722847513:android:eabc086858ff940d1bb988",
+        "android_client_info": {
+          "package_name": "id.nesd.flutter_news"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE6obJyM6ONUDInALRzxDfY5EM05MmNoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
