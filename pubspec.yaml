@@ -38,6 +38,8 @@ dependencies:
   firebase_core: ^2.28.0
   firebase_auth: ^4.19.0
   firebase_crashlytics: ^3.4.8
+  google_fonts: ^5.1.0
+  permission_handler: ^8.3.0
 
 dev_dependencies:
   flutter_test:
